@@ -1,0 +1,12 @@
+projectile p
+element Zr
+mass 90
+energy n3-5.grid
+fileresidual y
+
+v1adjust p 1.5
+rwadjust p 1.2
+
+outdensity y
+
+

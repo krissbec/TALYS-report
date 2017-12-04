@@ -1,0 +1,7 @@
+projectile n
+element Pb
+mass 208
+energy n0-20.grid
+fileresidual y
+
+ldmodel 2

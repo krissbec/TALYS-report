@@ -1,0 +1,21 @@
+#SUBENT      23021003
+#AUTHORS     M.Segawa, T.Masaki, Y.Nagai, Y.Temma, 
+#+           T.Shima, K.Mishima, M.Igashira, S.Goriely, 
+#+           A.Koning, T.Ohta, A.Nakayosi, J.Nishiyama, 
+#+           S.Hilaire
+#REFERENCE   Physical Review, Part C, Nuclear Physics Vol.76, p.022802
+#YEAR        2007
+#TITLE       .Neutron capture cross sections of 186-Os, 187-Os, and
+#+           189-Os for the Re-Os chronology
+#REACTION    76-OS-187(N,G)76-OS-188,,SIG,,AV
+#QUANTITY    Cross section
+#SUBP       23021003 
+#Ene,keV     dEne,keV    Sig,mb      dSig,mb
+ 8           1           2810        160
+ 13          3           1940        70
+ 19.5        2.5         1380        50
+ 25          2           1190        40
+ 31          3           1020        30
+ 40          5           950         30
+ 53          7           800         30
+ 75.5        14.5        650         20

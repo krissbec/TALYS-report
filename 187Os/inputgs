@@ -1,0 +1,6 @@
+projectile n
+element Os
+mass 187
+energy 0.01 1 0.1
+astro y
+astrogs y

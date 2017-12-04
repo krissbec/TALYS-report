@@ -1,0 +1,10 @@
+projectile n
+element Os 
+mass 191
+energy 10
+fileresidual y
+outdensity y
+outgamma y
+ldmodel 4
+ctable 76 192 -0.27
+strength 4
