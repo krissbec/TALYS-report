@@ -1,4 +1,4 @@
-\documentclass[a4paper,english]{report}
+\documentclass[a4paper,english]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc,url}
 \usepackage{graphicx}
@@ -12,18 +12,36 @@
 \usepackage{braket}
 \usepackage[version=4]{mhchem}
 \usepackage{float}
+\usepackage[square,numbers,comma,sort&compress]{natbib}
+\bibliographystyle{abbrvnat}
 \usepackage[caption = false]{subfig}
 \usepackage[section]{placeins}
 \usepackage{hyperref}
+\usepackage[nottoc]{tocbibind}
+\newcommand*{\doi}[1]{\href{http://dx.doi.org/#1}{doi: #1}} % Add Doi to link
 
 
 \urlstyle{sf}
+
 \title{Report on the TALYS}
-\author{Kristine Sønstevold Beckmann\footnote{With helpful cooperation from Fabio Zeiser \& Christiaan Britts.}}
-
+\author{Kristine Sønstevold Beckmann\footnote{In collaboration with Line G.Pedersen}}
+\begin{document}
+\maketitle
 \section{Theory behind TALYS(Hauser-Feshback}
-Article by Stephanie!
+Article by Stephane!
 
-\section{Two concepts}
+TALYS is a computer code program created to be used as a tool for physicists interested in nuclear properties. It combines theoretical modeling with the opportunity for experimental analysis.\cite{manual} By taking input in form of target nucleus, projectile and incident energy, TALYS can calculate predictions for many different reaction channels, i.e. their cross section, spectra and angular distribution. 
+
+\subsection{Limitations}
+Uncertainties far away from experimentally known regions?
+\section{Level density models}
+\section{Compound nucleus reactions}
+We can separate nuclear reactions into three categories depending on the time lapse of the reaction, i.e. direct, pre-equilibrium and compound reactions.  For the instances with short reaction times($\sim{10^{-22}}$s) there is only a small probability for inelastic SOMETHING and the exit channel is highly dependent on the entrance channel. This is classified as direct reactions.
+
+Pre-equilibrium reactions takes place in the intermediate time scale between direct reactions and compound nucleus reactions. Here the projectile can react with several nucleons, but the energy of the projectile does not have time to come to equilibrium with the target nucleus. MORE
+
+Compound nucleus reactions takes place where the reaction time is on such a long time scale ($\sim{10^{-17}}$s) that the projectile can react with several nucleons, and the energy of the incident particle will distribute evenly in the target and come to equilibrium. An important property of the compound nucleus reaction is that the exit channel is independent of the entrance channel in all cases except the elastic case.
 
 \section{Case study}
+\bibliography{bobcat}
+\end{document}
