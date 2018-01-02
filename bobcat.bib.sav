@@ -1,8 +1,91 @@
 % Encoding: UTF-8
 
-@Manual{,
-  title = {TALYS-1.8 A nuclear reaction program, User Manual},
-  file  = {:/Users/krissbec/talys/doc/talys1.8.pdf:PDF},
+@Manual{manual,
+  title  = {TALYS-1.8 A nuclear reaction program, User Manual},
+  author = {S. Goriely and S. Hilaire and A. J. Koning},
+  month  = dec,
+  year   = {2015},
+  file   = {:/Users/krissbec/talys/doc/talys1.8.pdf:PDF},
+  url    = {http://www.talys.eu/fileadmin/talys/user/docs/talys1.8.pdf},
+}
+
+@Article{Goriely2008,
+  author    = {S. Goriely and S. Hilaire and A. J. Koning},
+  title     = {Improved predictions of nuclear reaction rates with the {TALYS} reaction code for astrophysical applications},
+  journal   = {Astronomy {\&} Astrophysics},
+  year      = {2008},
+  volume    = {487},
+  number    = {2},
+  pages     = {767--774},
+  month     = {jun},
+  doi       = {10.1051/0004-6361:20078825},
+  publisher = {{EDP} Sciences},
+}
+
+@Article{Bethe1936,
+  author    = {H. A. Bethe},
+  title     = {An Attempt to Calculate the Number of Energy Levels of a Heavy Nucleus},
+  journal   = {Physical Review},
+  year      = {1936},
+  volume    = {50},
+  number    = {4},
+  pages     = {332--341},
+  month     = {aug},
+  doi       = {10.1103/physrev.50.332},
+  publisher = {American Physical Society ({APS})},
+}
+
+@Article{Gilbert1965,
+  author    = {A. Gilbert and A. G. W. Cameron},
+  title     = {A {COMPOSITE} {NUCLEAR}-{LEVEL} {DENSITY} {FORMULA} {WITH} {SHELL} {CORRECTIONS}},
+  journal   = {Canadian Journal of Physics},
+  year      = {1965},
+  volume    = {43},
+  number    = {8},
+  pages     = {1446--1496},
+  month     = {aug},
+  doi       = {10.1139/p65-139},
+  publisher = {Canadian Science Publishing},
+}
+
+@Article{Schiller2000,
+  author    = {A Schiller and L Bergholt and M Guttormsen and E Melby and J Rekstad and S Siem},
+  title     = {Extraction of level density and $\upgamma$ strength function from primary $\upgamma$ spectra},
+  journal   = {Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment},
+  year      = {2000},
+  volume    = {447},
+  number    = {3},
+  pages     = {498--511},
+  month     = {jun},
+  doi       = {10.1016/s0168-9002(99)01187-0},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{kadonis,
+  author = {I. Dillmann and R. Plag and F. Käppeler and T. Rauscher},
+  title  = {KADoNiS - The Karlsruhe Astrophysical Database of Nucleosynthesis in Stars},
+  url    = {http://www.kadonis.org},
+}
+
+@Article{Dilg1973,
+  author  = {W. Dilg and W. Schantl and H. Vonach and M. Uhl},
+  title   = {LEVEL DENSITY PARAMETERS FOR THE BACK-SHIFTED FERMI GAS MODEL IN THE MASS RANGE 40 < A < 250},
+  journal = {Nuclear Physics A},
+  year    = {1973},
+  url     = {https://ac.els-cdn.com/0375947473901966/1-s2.0-0375947473901966-main.pdf?_tid=cea13f26-e565-11e7-aeba-00000aab0f26&acdnat=1513761288_8cb475e68dc376ca96474747579b3201},
+}
+
+@Article{Ignatyuk1993,
+  author    = {A. V. Ignatyuk and J. L. Weil and S. Raman and S. Kahane},
+  title     = {Density of discrete levels {inSn}116},
+  journal   = {Physical Review C},
+  year      = {1993},
+  volume    = {47},
+  number    = {4},
+  pages     = {1504--1513},
+  month     = {apr},
+  doi       = {10.1103/physrevc.47.1504},
+  publisher = {American Physical Society ({APS})},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

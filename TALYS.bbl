@@ -1,11 +1,68 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{8}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[man()]{manual}
-\emph{TALYS-1.8 A nuclear reaction program, User Manual}.
+\bibitem[Goriely et~al.(2015)Goriely, Hilaire, and Koning]{manual}
+S.~Goriely, S.~Hilaire, and A.~J. Koning.
+\newblock \emph{TALYS-1.8 A nuclear reaction program, User Manual}, December
+  2015.
+\newblock URL \url{http://www.talys.eu/fileadmin/talys/user/docs/talys1.8.pdf}.
+
+\bibitem[Goriely et~al.(2008)Goriely, Hilaire, and Koning]{Goriely2008}
+S.~Goriely, S.~Hilaire, and A.~J. Koning.
+\newblock Improved predictions of nuclear reaction rates with the {TALYS}
+  reaction code for astrophysical applications.
+\newblock \emph{Astronomy {\&} Astrophysics}, 487\penalty0 (2):\penalty0
+  767--774, jun 2008.
+\newblock \doi{10.1051/0004-6361:20078825}.
+
+\bibitem[Schiller et~al.(2000)Schiller, Bergholt, Guttormsen, Melby, Rekstad,
+  and Siem]{Schiller2000}
+A~Schiller, L~Bergholt, M~Guttormsen, E~Melby, J~Rekstad, and S~Siem.
+\newblock Extraction of level density and $\upgamma$ strength function from
+  primary $\upgamma$ spectra.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  447\penalty0 (3):\penalty0 498--511, jun 2000.
+\newblock \doi{10.1016/s0168-9002(99)01187-0}.
+
+\bibitem[Bethe(1936)]{Bethe1936}
+H.~A. Bethe.
+\newblock An attempt to calculate the number of energy levels of a heavy
+  nucleus.
+\newblock \emph{Physical Review}, 50\penalty0 (4):\penalty0 332--341, aug 1936.
+\newblock \doi{10.1103/physrev.50.332}.
+
+\bibitem[Gilbert and Cameron(1965)]{Gilbert1965}
+A.~Gilbert and A.~G.~W. Cameron.
+\newblock A {COMPOSITE} {NUCLEAR}-{LEVEL} {DENSITY} {FORMULA} {WITH} {SHELL}
+  {CORRECTIONS}.
+\newblock \emph{Canadian Journal of Physics}, 43\penalty0 (8):\penalty0
+  1446--1496, aug 1965.
+\newblock \doi{10.1139/p65-139}.
+
+\bibitem[Dilg et~al.(1973)Dilg, Schantl, Vonach, and Uhl]{Dilg1973}
+W.~Dilg, W.~Schantl, H.~Vonach, and M.~Uhl.
+\newblock Level density parameters for the back-shifted fermi gas model in the
+  mass range 40 < a < 250.
+\newblock \emph{Nuclear Physics A}, 1973.
+\newblock URL
+  \url{https://ac.els-cdn.com/0375947473901966/1-s2.0-0375947473901966-main.pdf?_tid=cea13f26-e565-11e7-aeba-00000aab0f26&acdnat=1513761288_8cb475e68dc376ca96474747579b3201}.
+
+\bibitem[Ignatyuk et~al.(1993)Ignatyuk, Weil, Raman, and Kahane]{Ignatyuk1993}
+A.~V. Ignatyuk, J.~L. Weil, S.~Raman, and S.~Kahane.
+\newblock Density of discrete levels {inSn}116.
+\newblock \emph{Physical Review C}, 47\penalty0 (4):\penalty0 1504--1513, apr
+  1993.
+\newblock \doi{10.1103/physrevc.47.1504}.
+
+\bibitem[Dillmann et~al.()Dillmann, Plag, Käppeler, and Rauscher]{kadonis}
+I.~Dillmann, R.~Plag, F.~Käppeler, and T.~Rauscher.
+\newblock Kadonis - the karlsruhe astrophysical database of nucleosynthesis in
+  stars.
+\newblock URL \url{http://www.kadonis.org}.
 
 \end{thebibliography}

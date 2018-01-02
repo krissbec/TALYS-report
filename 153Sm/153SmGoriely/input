@@ -1,0 +1,7 @@
+projectile n
+element Sm
+mass 153
+energy n0-20.grid
+fileresidual y
+ldmodel 4
+astroE 0.03

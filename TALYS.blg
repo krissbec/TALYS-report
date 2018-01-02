@@ -1,49 +1,50 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: TALYS.aux
-The style file: abbrvnat.bst
+The style file: unsrtnat.bst
 Database file #1: bobcat.bib
-Warning--to sort, need author, organization, or key in manual
-Warning--empty year in manual
-You've used 1 entry,
-            2773 wiz_defined-function locations,
-            593 strings with 4593 characters,
-and the built_in function-call counts, 247 in all, are:
-= -- 20
-> -- 0
-< -- 0
-+ -- 1
-- -- 0
-* -- 18
-:= -- 27
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 2
-chr.to.int$ -- 1
-cite$ -- 5
-duplicate$ -- 17
-empty$ -- 31
-format.name$ -- 0
-if$ -- 51
+Warning--empty journal in kadonis
+Warning--empty year in kadonis
+Warning--empty year in kadonis
+You've used 8 entries,
+            2481 wiz_defined-function locations,
+            615 strings with 6238 characters,
+and the built_in function-call counts, 3253 in all, are:
+= -- 273
+> -- 184
+< -- 2
++ -- 70
+- -- 54
+* -- 298
+:= -- 538
+add.period$ -- 30
+call.type$ -- 8
+change.case$ -- 15
+chr.to.int$ -- 8
+cite$ -- 11
+duplicate$ -- 147
+empty$ -- 274
+format.name$ -- 64
+if$ -- 660
 int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 11
-num.names$ -- 0
-pop$ -- 13
+int.to.str$ -- 9
+missing$ -- 7
+newline$ -- 54
+num.names$ -- 24
+pop$ -- 58
 preamble$ -- 1
-purify$ -- 2
+purify$ -- 8
 quote$ -- 0
-skip$ -- 11
+skip$ -- 76
 stack$ -- 0
-substring$ -- 3
-swap$ -- 2
+substring$ -- 153
+swap$ -- 22
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
-warning$ -- 2
-while$ -- 0
+type$ -- 56
+warning$ -- 3
+while$ -- 26
 width$ -- 0
-write$ -- 14
-(There were 2 warnings)
+write$ -- 119
+(There were 3 warnings)
